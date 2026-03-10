@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinQ-Task2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0703db4e0d265b5d8542b68b9fb61ea37415def3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bc8558921db6514145540f38e47b5464163ea7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinQ-Task2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinQ-Task2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
